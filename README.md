@@ -13,3 +13,4 @@
 
 [![](https://img.shields.io/twitter/follow/Halataksoy?style=social)](https://twitter.com/Halataksoy)
 [![](https://img.shields.io/github/followers/halataksoy?style=social)](https://github.com/halataksoy)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halat-aksoy-699177202/)
