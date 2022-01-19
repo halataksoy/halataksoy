@@ -9,6 +9,6 @@
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Halataksoy)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halat-aksoy-699177202/)
-[![Mail Badge](https://img.shields.io/badge/halat.aksoy2000@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:halat.aksoy2000@gmail.com)](mailto:halat.aksoy2000@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/halat.aksoy2000@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:halat.aksoy1@gmail.com)](mailto:halat.aksoy2000@gmail.com)
 
 
