@@ -7,7 +7,7 @@
 
 [![](https://img.shields.io/github/followers/halataksoy?style=social)](https://github.com/halataksoy)
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halat-aksoy-699177202/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/halataksoy)
 [![Mail Badge](https://img.shields.io/badge/halat.aksoy1@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:halat.aksoy1@gmail.com)](mailto:halat.aksoy1@gmail.com)
 
 
