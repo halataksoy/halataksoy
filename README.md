@@ -1,7 +1,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=halataksoy&show_icons=true">
-# Hi everyone, I'm Halat.
 
+# Hi everyone, I'm Halat.
 ## I'm a Mathematics Student and Frontend Developer. I'm currently working with .NET framework and React.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halataksoy" alt="halataksoy" /> </p>
 
 [![](https://img.shields.io/twitter/follow/Halataksoy?style=social)](https://twitter.com/Halataksoy)
