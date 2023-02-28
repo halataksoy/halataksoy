@@ -1,7 +1,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=halataksoy&show_icons=true">
 
 # Hi everyone, I'm Halat.
-## I'm a Mathematics Student and Front-end Developer. I'm currently working with .NET framework and React.
+## 
+I am a graduate of mathematics and Front-end Developer. I'm currently working with .NET framework and React.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halataksoy" alt="halataksoy" /> </p>
 
