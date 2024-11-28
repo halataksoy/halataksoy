@@ -6,6 +6,7 @@ I am a graduate of mathematics and Front-end Developer. I'm currently working wi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halataksoy" alt="halataksoy" /> </p>
 
+
 [![](https://img.shields.io/github/followers/halataksoy?style=social)](https://github.com/halataksoy)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halataksoy)
