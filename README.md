@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Halat Aksoy 
+# Hi there 👋, my name is Halat Aksoy 
 ## 🙋‍♂️ About me
 ## 🔭 I'm currently working on
 ## 🌱 I’m currently learning
