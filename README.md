@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/halataksoy/count.svg?"  />
 </div>
 <b>Hi there<b> 👋
-My name is Halat, and I'm an Full-Stack Software Developer.
+  My name is Halat, and I'm a Full-Stack Software Developer as well as a Mathematician. While studying Mathematics at university, I began exploring software development. The analytical thinking and problem-solving skills I gained from Mathematics continue to influence my approach to software projects.
 <br><br>
 🔭 I’m currently working on: <br>
 - Developing user-friendly web applications using Angular and .NET. <br>
