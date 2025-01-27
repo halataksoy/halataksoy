@@ -11,16 +11,7 @@ My name is Halat, and I'm an Full-Stack Software Developer.
 - Enhancing e-commerce platforms and contributing to OpenAI-powered modules. <br>
 - Creating automated test frameworks with SpecFlow and Playwright. <br>
 - SQL database management and optimization. <br><br>
-
-🌱 I’m currently learning: <br>
-- Advanced design systems for consistent and scalable UI/UX development. <br>
-- Best practices in data-driven applications and predictive analytics. <br><br>
-
-💬 Ask me about: <br>
-- Building modern full-stack applications with Angular and .NET. <br>
-- My experience with automated testing and performance optimization. <br>
-- SQL queries and database optimization. <br><br>
-
+  
 ⚡ Fun fact: <br>
 - I studied Mathematics before diving deep into software development, which helps me tackle complex problems with logical thinking!  
 
