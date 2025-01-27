@@ -6,8 +6,23 @@
 <b>Hi there<b> 👋
 My name is Halat, and I'm an Full-Stack Software Developer.
 <br><br>
-🔭 I’m currently working on  <br> Developing user-friendly web applications using Angular and .NET.  <br> Enhancing e-commerce platforms and contributing to OpenAI-powered modules.  <br> Creating automated test frameworks with SpecFlow and Playwright.  <br>Projects focused on UI/UX design improvements.  <br>Scalable and modern e-commerce solutions.<br><br>🌱 I’m currently learning  <br> Advanced design systems for consistent and scalable UI/UX development.  <br>Best practices in data-driven applications and predictive analytics.  <br><br> 💬 Ask me about  <br> Building modern full-stack applications with Angular and .NET.  <br> My experience with automated testing and performance optimization.  <br><br>⚡ Fun fact  <br> I studied Mathematics before diving deep into software development, which helps me tackle complex problems with logical thinking! 
+🔭 I’m currently working on: <br>
+- Developing user-friendly web applications using Angular and .NET. <br>
+- Enhancing e-commerce platforms and contributing to OpenAI-powered modules. <br>
+- Creating automated test frameworks with SpecFlow and Playwright. <br>
+- SQL database management and optimization. <br><br>
 
+🌱 I’m currently learning: <br>
+- Advanced design systems for consistent and scalable UI/UX development. <br>
+- Best practices in data-driven applications and predictive analytics. <br><br>
+
+💬 Ask me about: <br>
+- Building modern full-stack applications with Angular and .NET. <br>
+- My experience with automated testing and performance optimization. <br>
+- SQL queries and database optimization. <br><br>
+
+⚡ Fun fact: <br>
+- I studied Mathematics before diving deep into software development, which helps me tackle complex problems with logical thinking!  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/halataksoy/) 
