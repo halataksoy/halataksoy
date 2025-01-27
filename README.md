@@ -1,9 +1,12 @@
 
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/halataksoy/count.svg?"  />
+</div>
 <b>Hi there<b> 👋
 My name is Halat, and I'm an Full-Stack Software Developer.
 <br><br>
- 💫 About Me:
-🔭 I’m currently working on  <br> Developing user-friendly web applications using Angular and .NET.  <br> Enhancing e-commerce platforms and contributing to OpenAI-powered modules.  <br> Creating automated test frameworks with SpecFlow and Playwright.  <br><br>👯 I’m looking to collaborate on  <br>- Projects focused on UI/UX design improvements.  <br>- Scalable and modern e-commerce solutions.  <br><br>🤝 I’m looking for help with  <br>- Exploring cloud-based architectures and performance optimization strategies.  <br><br>🌱 I’m currently learning  <br>- Advanced design systems for consistent and scalable UI/UX development.  <br>- Best practices in data-driven applications and predictive analytics.  <br><br> 💬 Ask me about  <br>- Building modern full-stack applications with Angular and .NET.  <br>- My experience with automated testing and performance optimization.  <br><br>⚡ Fun fact  <br>- I studied Mathematics before diving deep into software development, which helps me tackle complex problems with logical thinking!  <br><br>Let’s build something amazing together! 🚀  <br>
+🔭 I’m currently working on  <br> Developing user-friendly web applications using Angular and .NET.  <br> Enhancing e-commerce platforms and contributing to OpenAI-powered modules.  <br> Creating automated test frameworks with SpecFlow and Playwright.  <br>Projects focused on UI/UX design improvements.  <br>Scalable and modern e-commerce solutions.<br><br>🌱 I’m currently learning  <br> Advanced design systems for consistent and scalable UI/UX development.  <br>Best practices in data-driven applications and predictive analytics.  <br><br> 💬 Ask me about  <br> Building modern full-stack applications with Angular and .NET.  <br> My experience with automated testing and performance optimization.  <br><br>⚡ Fun fact  <br> I studied Mathematics before diving deep into software development, which helps me tackle complex problems with logical thinking! 
 
 
 ## 🌐 Socials:
@@ -18,4 +21,5 @@ My name is Halat, and I'm an Full-Stack Software Developer.
 ---
 [![](https://visitcount.itsvg.in/api?id=halataksoy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
