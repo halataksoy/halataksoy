@@ -22,4 +22,5 @@ My name is Halat, and I'm an Full-Stack Software Developer.
 [![](https://visitcount.itsvg.in/api?id=halataksoy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
 
